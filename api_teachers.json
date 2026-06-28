@@ -66,4 +66,27 @@
     "id": 8,
     "subject": "جغرافيا",
     "name": "سلطان الدوسري",
-    "img": "
+    "img": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=400&h=400&fit=crop",
+    "exp": 9,
+    "curriculum": "سعودي",
+    "price": 140
+  },
+  {
+    "id": 9,
+    "subject": "فلسفة",
+    "name": "حازم إمام",
+    "img": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=400&h=400&fit=crop",
+    "exp": 11,
+    "curriculum": "مصري",
+    "price": 110
+  },
+  {
+    "id": 10,
+    "subject": "حاسب آلي",
+    "name": "بندر الفهد",
+    "img": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=400&h=400&fit=crop",
+    "exp": 5,
+    "curriculum": "سعودي",
+    "price": 170
+  }
+]
