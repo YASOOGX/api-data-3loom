@@ -6,7 +6,9 @@
     "img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=400&h=400&fit=crop",
     "exp": 12,
     "curriculum": "مصري",
-    "price": 150
+    "price": 150,
+    "rate": 4,
+    "desc": "متخصص في تبسيط منهج الرياضيات البحتة والتطبيقية للمرحلة الثانوية بأساليب حديثة."
   },
   {
     "id": 2,
@@ -15,7 +17,9 @@
     "img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=400&h=400&fit=crop",
     "exp": 8,
     "curriculum": "سعودي",
-    "price": 200
+    "price": 200,
+    "rate": 5,
+    "desc": "شرح تفاعلي وتجارب عملية لتبسيط قوانين الفيزياء وتحقيق الدرجات النهائية."
   },
   {
     "id": 3,
@@ -24,7 +28,9 @@
     "img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=400&h=400&fit=crop",
     "exp": 15,
     "curriculum": "مصري",
-    "price": 180
+    "price": 180,
+    "rate": 4,
+    "desc": "كبيرة معلمي الكيمياء، خبرة طويلة في تأهيل الطلاب للاختبارات الوزارية بنجاح."
   },
   {
     "id": 4,
@@ -33,7 +39,9 @@
     "img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=400&h=400&fit=crop",
     "exp": 6,
     "curriculum": "سعودي",
-    "price": 120
+    "price": 120,
+    "rate": 3,
+    "desc": "شرح مبسط ومصور لجميع أجزاء منهج الأحياء مع التركيز على فهم أدق التفاصيل."
   },
   {
     "id": 5,
@@ -42,7 +50,9 @@
     "img": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=400&h=400&fit=crop",
     "exp": 10,
     "curriculum": "مصري",
-    "price": 130
+    "price": 130,
+    "rate": 4,
+    "desc": "تأسيس شامل في القواعد والـ Skills لضمان التميز والتقفيل في اللغة الإنجليزية."
   },
   {
     "id": 6,
@@ -51,7 +61,9 @@
     "img": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=400&h=400&fit=crop",
     "exp": 14,
     "curriculum": "سعودي",
-    "price": 160
+    "price": 160,
+    "rate": 4,
+    "desc": "شرح مميز لفروع النحو والبلاغة والأدب بأسلوب يضمن الفهم والاستيعاب السريع."
   },
   {
     "id": 7,
@@ -60,7 +72,9 @@
     "img": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=400&h=400&fit=crop",
     "exp": 7,
     "curriculum": "مصري",
-    "price": 100
+    "price": 100,
+    "rate": 3,
+    "desc": "ربط أحداث التاريخ بأسلوب قصصي ممتع يسهل الحفظ والفهم المستمر للمنهج."
   },
   {
     "id": 8,
@@ -69,7 +83,9 @@
     "img": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=400&h=400&fit=crop",
     "exp": 9,
     "curriculum": "سعودي",
-    "price": 140
+    "price": 140,
+    "rate": 4,
+    "desc": "شرح احترافي للخرائط والجغرافيا السياسية والطبيعية بأحدث الوسائل التعليمية."
   },
   {
     "id": 9,
@@ -78,7 +94,9 @@
     "img": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=400&h=400&fit=crop",
     "exp": 11,
     "curriculum": "مصري",
-    "price": 110
+    "price": 110,
+    "rate": 4,
+    "desc": "تبسيط المفاهيم الفلسفية ومنطق التفكير لمساعدة الطلاب على حل أسئلة النظام الجديد."
   },
   {
     "id": 10,
@@ -87,6 +105,8 @@
     "img": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=400&h=400&fit=crop",
     "exp": 5,
     "curriculum": "سعودي",
-    "price": 170
+    "price": 170,
+    "rate": 5,
+    "desc": "تعليم مبادئ البرمجة وعلوم الحاسب الآلي المقررة بطرق تطبيقية وعملية سهلة."
   }
 ]
