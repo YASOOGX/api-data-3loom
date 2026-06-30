@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "تعلم الآلة (Machine Learning)",
-    "img": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=600&auto=format&fit=crop",
+    "img": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=500",
     "subject": "الذكاء الاصطناعي",
     "rate": "4.9",
     "price": "150 ر.س",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "التعلم العميق (Deep Learning)",
-    "img": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=600&auto=format&fit=crop",
+    "img": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=500",
     "subject": "الذكاء الاصطناعي",
     "rate": "5.0",
     "price": "180 ر.س",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "معالجة اللغات الطبيعية (NLP)",
-    "img": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=600&auto=format&fit=crop",
+    "img": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?w=500",
     "subject": "الذكاء الاصطناعي",
     "rate": "4.8",
     "price": "160 ر.س",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "الرؤية الحاسوبية (Computer Vision)",
-    "img": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=600&auto=format&fit=crop",
+    "img": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=500",
     "subject": "الذكاء الاصطناعي",
     "rate": "4.9",
     "price": "170 ر.س",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "الذكاء الاصطناعي التوليدي (Generative AI)",
-    "img": "https://images.unsplash.com/photo-1618005198143-e5283b519a7f?q=80&w=600&auto=format&fit=crop",
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=500",
     "subject": "الذكاء الاصطناعي",
     "rate": "5.0",
     "price": "200 ر.س",
@@ -47,10 +47,4 @@
   {
     "id": 6,
     "name": "علم الروبوتات الذكية (Robotics)",
-    "img": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=600&auto=format&fit=crop",
-    "subject": "الذكاء الاصطناعي",
-    "rate": "4.7",
-    "price": "190 ر.س",
-    "desc": "دمج الذكاء الاصطناعي بالأنظمة الحركية، وتصميم الروبوتات التي تستطيع اتخاذ القرارات والتفاعل مع البيئة المحيطة بها بشكل مستقر وذكي."
-  }
-]
+    "img": "
