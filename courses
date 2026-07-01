@@ -3,7 +3,7 @@
     {
       "id": 101,
       "name": "أساسيات تعلم الآلة بـ Python",
-      "img": "/public/image/courses/ml-1.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_0",
       "rate": "4.8",
       "price": "120 ر.س",
       "desc": "البداية الحقيقية لك في عالم الذكاء الاصطناعي، تتعلم فيها خوارزميات التصنيف والإنحدار وتجهيز البيانات من الصفر."
@@ -11,7 +11,7 @@
     {
       "id": 102,
       "name": "تطبيق خوارزميات Scikit-Learn",
-      "img": "/public/image/courses/ml-2.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_0",
       "rate": "4.9",
       "price": "140 ر.س",
       "desc": "كورس عملي يركز على بناء وتدريب النماذج الرياضية وتوقع الأسعار والبيانات باستخدام أشهر مكتبة."
@@ -19,7 +19,7 @@
     {
       "id": 103,
       "name": "تحليل البيانات المتقدم للمهندسين",
-      "img": "/public/image/courses/ml-3.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_0",
       "rate": "4.7",
       "price": "150 ر.س",
       "desc": "تنظيف البيانات الضخمة والتعامل مع القيم المفقودة وإعدادها لتكون صالحة لتدريب نماذج الذكاء الاصطناعي."
@@ -27,7 +27,7 @@
     {
       "id": 104,
       "name": "مشاريع تعلم الآلة الحقيقية (End-to-End)",
-      "img": "/public/image/courses/ml-4.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_0",
       "rate": "5.0",
       "price": "200 ر.س",
       "desc": "كورس تطبيقي بالكامل لبناء نموذج ذكي وربطه بواجهة مستخدم ورفعه على السيرفر ليكون مشروع جاهز."
@@ -38,7 +38,7 @@
     {
       "id": 201,
       "name": "مقدمة في الشبكات العصبية",
-      "img": "/public/image/courses/dl-1.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_1",
       "rate": "4.9",
       "price": "160 ر.س",
       "desc": "فهم كيف يحاكي الكمبيوتر خلايا العقل البشري، وكيف تتدفق البيانات عبر الطبقات المختلفة للشبكة العصبية."
@@ -46,7 +46,7 @@
     {
       "id": 202,
       "name": "احتدام مع TensorFlow و Keras",
-      "img": "/public/image/courses/dl-2.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_1",
       "rate": "4.8",
       "price": "170 ر.س",
       "desc": "كورس عملي مكثف لبناء وتدريب شبكات عصبية عميقة لحل مشكلات التصنيف المعقدة باستخدام مكتبة جوجل الشهيرة."
@@ -54,7 +54,7 @@
     {
       "id": 203,
       "name": "احتراف مكتبة PyTorch المتقدمة",
-      "img": "/public/image/courses/dl-3.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_1",
       "rate": "5.0",
       "price": "190 ر.س",
       "desc": "الدورة المفضلة للباحثين والمطورين لبناء نماذج تعلم عميق مرنة ومخصصة بالكامل باستخدام بيئة PyTorch."
@@ -62,7 +62,7 @@
     {
       "id": 204,
       "name": "ضبط النماذج والأوزان (Hyperparameters)",
-      "img": "/public/image/courses/dl-4.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_1",
       "rate": "4.6",
       "price": "140 ر.س",
       "desc": "تعلم تريكات تحسين دقة النموذج الذكي، وتجنب مشكلة الـ Overfitting، وتسريع عملية التدريب باستخدام الـ GPU."
@@ -73,7 +73,7 @@
     {
       "id": 301,
       "name": "معالجة النصوص وحقن الكلمات",
-      "img": "/public/image/courses/nlp-1.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_2",
       "rate": "4.7",
       "price": "130 ر.س",
       "desc": "أساسيات تحويل الكلمات والنصوص البشرية إلى أرقام ومصفوفات تفهمها الآلة باستخدام تقنيات Tokenization."
@@ -81,7 +81,7 @@
     {
       "id": 302,
       "name": "بناء أنظمة الشات بوت الذكية",
-      "img": "/public/image/courses/nlp-2.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_2",
       "rate": "4.9",
       "price": "175 ر.س",
       "desc": "كورس تطبيقي لبناء مساعد رقمي ذكي يستطيع فهم أسئلة العملاء والرد عليها بشكل طبيعي وسياقي دقيق."
@@ -89,7 +89,7 @@
     {
       "id": 303,
       "name": "تحليل المشاعر والآراء تلقائياً",
-      "img": "/public/image/courses/nlp-3.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_2",
       "rate": "4.8",
       "price": "150 ر.س",
       "desc": "بناء نظام ذكي يقرأ التغريدات ومراجعات المنتجات ويحدد فوراً ما إذا كان رأي العميل إيجابياً أم سلبياً."
@@ -97,7 +97,7 @@
     {
       "id": 304,
       "name": "نماذج الترجمة الآلية ولغة الآلة",
-      "img": "/public/image/courses/nlp-4.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_2",
       "rate": "4.9",
       "price": "180 ر.س",
       "desc": "شرح كواليس عمل أنظمة الترجمة الفورية الضخمة والتعامل مع تراكيب الجمل والقواعد النحوية المعقدة برمجياً."
@@ -108,7 +108,7 @@
     {
       "id": 401,
       "name": "معالجة الصور الرقمية باستخدام OpenCV",
-      "img": "/public/image/courses/cv-1.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_3",
       "rate": "4.8",
       "price": "140 ر.س",
       "desc": "تعلم أساسيات قراءة الصور، تعديل الألوان، كشف الحواف والخطوط، وقص العناصر برمجياً باستخدام أشهر مكتبة."
@@ -116,7 +116,7 @@
     {
       "id": 402,
       "name": "كشف وتتبع الأجسام باستخدام YOLO",
-      "img": "/public/image/courses/cv-2.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_3",
       "rate": "5.0",
       "price": "210 ر.س",
       "desc": "كورس قوي جداً لتدريب الكاميرا على كشف العناصر (أشخاص، سيارات) وتتبع حركتها في الوقت الفعلي بسرعات خارقة."
@@ -124,7 +124,7 @@
     {
       "id": 403,
       "name": "التعرف على الوجوه وبصمة العين",
-      "img": "/public/image/courses/cv-3.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_3",
       "rate": "4.9",
       "price": "190 ر.س",
       "desc": "بناء نظام أمني متكامل يتعرف على هوية الأشخاص من خلال ملامح الوجه ومطابقتها بقاعدة البيانات فوراً."
@@ -132,7 +132,7 @@
     {
       "id": 404,
       "name": "أنظمة الرؤية في السيارات ذاتية القيادة",
-      "img": "/public/image/courses/cv-4.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_3",
       "rate": "5.0",
       "price": "250 ر.س",
       "desc": "دورة متقدمة جداً تشرح كيف ترى سيارات تسلا الشارع، وتحدد الحارات المرورية، وتتجنب الاصطدام بالعقبات."
@@ -143,7 +143,7 @@
     {
       "id": 501,
       "name": "هندسة الأوامر (Prompt Engineering)",
-      "img": "/public/image/courses/gen-1.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_4",
       "rate": "4.7",
       "price": "110 ر.س",
       "desc": "تعلم الفن العلمي لصياغة الأوامر للحصول على أدق وأفضل النتائج من النماذج العملاقة مثل ChatGPT."
@@ -151,7 +151,7 @@
     {
       "id": 502,
       "name": "تطوير تطبيقات باستخدام OpenAI API",
-      "img": "/public/image/courses/gen-2.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_4",
       "rate": "4.9",
       "price": "180 ر.س",
       "desc": "كورس برمجي يخليك تربط أكواد مشروعك بذكاء ChatGPT وتصنع تطبيقات ومواقع مخصصة تؤدي مهام ذكية."
@@ -159,7 +159,7 @@
     {
       "id": 503,
       "name": "بناء تطبيقات الـ RAG والبيانات الخاصة",
-      "img": "/public/image/courses/gen-3.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_4",
       "rate": "5.0",
       "price": "220 ر.س",
       "desc": "تعلّم كيف تجعل الذكاء الاصطناعي يقرأ ملفات PDF الخاصة بشركتك ويجيب على الأسئلة بناءً عليها فقط."
@@ -167,7 +167,7 @@
     {
       "id": 504,
       "name": "توليد الصور والفيديو والوسائط الذكية",
-      "img": "/public/image/courses/gen-4.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_4",
       "rate": "4.8",
       "price": "160 ر.س",
       "desc": "دورة تركز على نماذج الانتشار (Diffusion Models) وكيفية توليد وتعديل الجرافيك والفيديوهات بجودة سينمائية."
@@ -178,7 +178,7 @@
     {
       "id": 601,
       "name": "مقدمة في كواليس الروبوتات وأنظمة ROS",
-      "img": "/public/image/courses/rb-1.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_5",
       "rate": "4.6",
       "price": "150 ر.س",
       "desc": "تعلم نظام تشغيل الروبوتات الأساسي (Robot Operating System) وكيفية إرسال الأوامر البرمجية للمحركات الحساسة."
@@ -186,7 +186,7 @@
     {
       "id": 602,
       "name": "التحكم الذكي وحركة الروبوتات",
-      "img": "/public/image/courses/rb-2.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_5",
       "rate": "4.8",
       "price": "180 ر.س",
       "desc": "معادلات الحركة والتحكم الرياضي لجعل أذرع الروبوتات تتحرك بدقة متناهية في المصانع وخطوط الإنتاج."
@@ -194,7 +194,7 @@
     {
       "id": 603,
       "name": "دمج الحساسات (Sensor Fusion)",
-      "img": "/public/image/courses/rb-3.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_5",
       "rate": "4.9",
       "price": "200 ر.س",
       "desc": "كيف يدمج الروبوت بيانات الليدار (LiDAR)، الكاميرات، والحساسات ليفهم البيئة المحيطة به بدون أخطاء."
@@ -202,7 +202,7 @@
     {
       "id": 604,
       "name": "التنقل الذاتي وبناء الخرائط (SLAM)",
-      "img": "/public/image/courses/rb-4.png",
+      "img": "http://googleusercontent.com/image_collection/image_retrieval/7241155482654257568_5",
       "rate": "5.0",
       "price": "240 ر.س",
       "desc": "كورس متقدم جداً في خوارزميات رسم الخرائط الذاتية، والتي تتيح للروبوت استكشاف مكان مجهول والمشي فيه بمفرده."
